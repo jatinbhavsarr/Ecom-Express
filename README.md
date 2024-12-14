@@ -1,4 +1,4 @@
-# **Ecom Express: Ecommerce Platform Sales and Delivery Analytics**
+# **Ecom Express: Ecommerce Platform Sales and Products Analytics**
 
 ## **Executive Summary**  
 The Ecom Express project involves creating an interactive Power BI dashboard to analyze the performance of an ecommerce platform selling clothes. The dashboard integrates data from customers, sellers, products, and deliveries to provide actionable insights on sales trends, customer behavior, inventory management, and delivery efficiency, helping improve decision-making and operational processes.
