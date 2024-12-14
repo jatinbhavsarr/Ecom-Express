@@ -1,6 +1,3 @@
-Here’s the organized version of your **Ecom Express** project using the specified format:
-
----
 
 # **Ecom Express: Delivery Performance Analytics Dashboard**
 
